@@ -64,7 +64,7 @@ def parse_args():
     parser.add_argument(
         "--model_name",
         type=str,
-        default='llama2-13b',
+        default='llama3-8b',
         help="The model name of the open-source LLM."    
     )
     parser.add_argument(
