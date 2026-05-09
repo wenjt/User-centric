@@ -1,5 +1,5 @@
 # User-centric
-Insight into the User behind the Text: \\An LLM Powered User-Centric Text Opinion Analysis Framework
+Insight into the User behind the Text: An LLM Powered User-Centric Text Opinion Analysis Framework
 
 This project is a user-centric opinion analysis framework that utilizes Bayesian Prompt Optimization (BPO) to align user profiles with the reasoning processes of Large Language Models (LLMs).
 
